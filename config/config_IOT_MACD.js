@@ -27,7 +27,7 @@ const config = {
     feeUsing: 'taker', // maker || taker
 
   },
-  apiUrl: 'http://68.183.115.60:3000',
+  apiUrl: 'http://localhost:3000',
 
   // Population size, better reduce this for larger data
   populationAmt: 20,
