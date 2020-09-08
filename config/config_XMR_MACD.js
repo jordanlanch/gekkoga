@@ -6,14 +6,14 @@ const config = {
     watch: {
       exchange: 'bitfinex',
       currency: 'USD',
-      asset: 'ETC'
+      asset: 'XMR'
     },
 
 //    daterange: 'scan',
 
     daterange: {
-      from: '2019-09-07 00:10',
-      to: '2020-09-07 02:52'
+      from: '2019-09-06 15:01',
+      to: '2020-09-07 02:51'
     },
 
     simulationBalance: {
